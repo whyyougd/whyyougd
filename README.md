@@ -12,10 +12,10 @@
   
 <br>
 
-🌊 [****](https://whyyougd.tistory.com/) 🌊  공부기록 개발블로그
+🌊 [***](https://whyyougd.tistory.com/) 🌊  공부기록 개발블로그
 <br>
 <br>
-⚓ [****](https://whyyougd.tistory.com) ⚓  
+⚓ [***](https://whyyougd.tistory.com) ⚓  
  
  <br>
  
