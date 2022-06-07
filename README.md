@@ -1,7 +1,9 @@
 <div align="center">
   
 <!--   <img align="right" src="https://github-readme-stats.vercel.app/api?username=whyyougd&show_icons=true&theme=cobalt&hide="/> -->
- 
+<a href="https://suave-lilac-075.notion.site/b1ac3609f8a946c3a1939b5d46211e44?v=cc0f75ec13e54868a33bb57336fb9ee8">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyyougd&theme=cobalt&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a> 
+  
   ### 🌿 이건도 🌿
  
  <a href="https://github.com/whyyougd">
@@ -22,16 +24,19 @@
   
  ---
  
- <div align="center">
-<a href="https://suave-lilac-075.notion.site/b1ac3609f8a946c3a1939b5d46211e44?v=cc0f75ec13e54868a33bb57336fb9ee8">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyyougd&theme=cobalt&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
+<!--  <div align="center"> -->
+<div>
+<!-- <a href="https://suave-lilac-075.notion.site/b1ac3609f8a946c3a1939b5d46211e44?v=cc0f75ec13e54868a33bb57336fb9ee8">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyyougd&theme=cobalt&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a> -->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=whyyougd&show_icons=true&theme=cobalt&hide="/>
  </div>
  
-<div align="center">
+
  
   ---
+  <div align="center">
+  
 ### Skills 🛠️
   
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -52,3 +57,4 @@
 <img src="https://img.shields.io/badge/AWS EC2 SDK-F58536?style=for-the-badge&logo=AWS&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon S3-E15343?style=for-the-badge&logo=S3&logoColor=white">
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
+  </div>
