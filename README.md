@@ -30,18 +30,15 @@
 <div>
 <!-- <a href="https://suave-lilac-075.notion.site/b1ac3609f8a946c3a1939b5d46211e44?v=cc0f75ec13e54868a33bb57336fb9ee8">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyyougd&theme=cobalt&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a> -->
-
-   🌊 [개발블로그](https://whyyougd.tistory.com/) 🌊 
+ 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=whyyougd&show_icons=true&theme=radical&hide="/>
   
  </div>
  
-
- 
   ---
   <div align="center">
   
-### Skills 🛠️
+### 🛠️ Skills 🛠️
   
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
