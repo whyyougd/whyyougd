@@ -11,9 +11,9 @@
   </a> 
   
 <br>
+<br>
 
 🌊 [***](https://whyyougd.tistory.com/) 🌊  공부기록 개발블로그
-<br>
 <br>
 <br>
 <br>
@@ -29,7 +29,7 @@
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=whyyougd&show_icons=true&theme=cobalt&hide="/> -->
  </div>
  
-<div align="left">
+<div align="center">
  
   ---
 ### Skills 🛠️
