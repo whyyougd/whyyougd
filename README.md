@@ -30,7 +30,7 @@
  
 <div align="left">
  
-### Once I've used...✏️
+### Skills 🛠️
   
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
