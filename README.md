@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=whyyougd&show_icons=true&theme=cobalt&hide="/>
+<!--   <img align="right" src="https://github-readme-stats.vercel.app/api?username=whyyougd&show_icons=true&theme=cobalt&hide="/> -->
  
   ### 🌿 이건도 🌿
  
@@ -15,21 +15,21 @@
 🌊 [***](https://whyyougd.tistory.com/) 🌊  공부기록 개발블로그
 <br>
 <br>
-⚓ [***](https://whyyougd.tistory.com) ⚓  
- 
- <br>
- 
+
 </div>
   
  ---
  
- <br>
- 
+ <div align="center">
 <a href="https://suave-lilac-075.notion.site/b1ac3609f8a946c3a1939b5d46211e44?v=cc0f75ec13e54868a33bb57336fb9ee8">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyyougd&theme=cobalt&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyyougd&theme=cobalt&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=whyyougd&show_icons=true&theme=cobalt&hide="/>
+ </div>
  
-<div align="left">
+<div align="center">
  
+  ---
 ### Skills 🛠️
   
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
