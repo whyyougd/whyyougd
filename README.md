@@ -58,4 +58,4 @@
 <img src="https://img.shields.io/badge/AWS EC2 SDK-F58536?style=for-the-badge&logo=AWS&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon S3-E15343?style=for-the-badge&logo=S3&logoColor=white">
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
-  </div>
+  
